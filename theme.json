@@ -1,0 +1,9 @@
+{
+    "name": "pmadarkmode",
+    "version": "4.9",
+    "description": "Custom Dark theme revived for v4.9+",
+    "author": "Multiple",
+    "url": "https://joshdw.com",
+    "supports": ["4.9"]
+}
+
