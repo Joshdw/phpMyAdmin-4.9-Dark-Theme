@@ -31,7 +31,6 @@ $navLineColor = '#222';
 #pma_navigation_header {
     overflow: hidden;
     background: <?php echo $GLOBALS['cfg']['HeaderBackground']; ?>;
-    padding-bottom: 1em;
     margin-bottom: .5em;
     -moz-box-shadow: 5px 8px 10px rgba(0,0,0,0.15);
     -webkit-box-shadow: 5px 8px 10px rgba(0,0,0,0.15);
@@ -85,7 +84,7 @@ $navLineColor = '#222';
 #pma_navigation #databaseList,
 #pma_navigation div.pageselector.dbselector {
     text-align: center;
-    padding: 1em 0;
+    padding: 1em 0 0 0;
     border: 0;
 }
 #navipanellinks {
